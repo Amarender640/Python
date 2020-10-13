@@ -1,2 +1,2 @@
 # Python
-Python Learning
+Python Learning for Data Analysis and GitHub VS learning
